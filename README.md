@@ -31,7 +31,7 @@ Os dados do banco ficam salvos no diretório local *./data.* Ao reiniciar o cont
 
 * **Usuário:** sa
 
-* **Senha:** YourStrong@Passw0rd
+* **Senha:** MinhaSenha@2025
 
 
 ## 🛠️ Como se conectar
