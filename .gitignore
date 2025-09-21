@@ -1,0 +1,17 @@
+# General
+.vscode/
+.env
+node_modules/
+dist/
+.DS_Store
+
+# dotnet
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
